@@ -1,0 +1,766 @@
+hdr;country;code;ind;anno
+140;Afghanistan;AFG;0.0;1995
+66;Albania;ALB;0.0;1995
+41;Argentina;ARG;14.8;1995
+72;Armenia;ARM;0.0;1995
+3;Australia;AUS;11.2;1995
+22;Austria;AUT;17.5;1995
+69;Azerbaijan;AZE;0.0;1995
+54;Bahamas, The;BHS;5.4;1995
+43;Bahrain;BHR;0.0;1995
+116;Bangladesh;BGD;0.0;1995
+50;Barbados;BRB;12.9;1995
+48;Belarus;BLR;0.0;1995
+20;Belgium;BEL;13.6;1995
+88;Belize;BLZ;9.3;1995
+138;Benin;BEN;0.0;1995
+113;Bhutan;BTN;0.0;1995
+102;Bolivia;BOL;16.1;1995
+71;Bosnia and Herzegovina;BIH;0.0;1995
+93;Botswana;BWA;0.0;1995
+70;Brazil;BRA;9.3;1995
+52;Bulgaria;BGR;0.0;1995
+151;Burkina Faso;BFA;0.0;1995
+150;Burundi;BDI;0.0;1995
+119;Cambodia;KHM;0.0;1995
+127;Cameroon;CMR;0.0;1995
+10;Canada;CAN;11.3;1995
+153;Central African Republic;CAF;0.0;1995
+152;Chad;TCD;0.0;1995
+34;Chile;CHL;14.5;1995
+78;China;CHN;0.0;1995
+82;Colombia;COL;24.3;1995
+114;Congo, Dem. Rep.;COD;0.0;1995
+146;Congo, Rep.;COG;0.0;1995
+58;Costa Rica;CRI;20.9;1995
+142;Cote d'Ivoire;CIV;0.0;1995
+42;Croatia;HRV;0.0;1995
+60;Cuba;CUB;16.2;1995
+29;Cyprus;CYP;17.8;1995
+26;Czech Republic;CZE;30.8;1995
+5;Denmark;DNK;15.0;1995
+85;Dominican Republic;DOM;20.4;1995
+77;Ecuador;ECU;14.7;1995
+96;Egypt, Arab Rep.;EGY;9.2;1995
+101;El Salvador;SLV;25.9;1995
+28;Estonia;EST;26.5;1995
+144;Ethiopia;ETH;0.0;1995
+79;Fiji;FJI;0.0;1995
+21;Finland;FIN;14.8;1995
+19;France;FRA;15.1;1995
+94;Gabon;GAB;0.0;1995
+143;Gambia, The;GMB;0.0;1995
+62;Georgia;GEO;0.0;1995
+4;Germany;DEU;20.2;1995
+117;Ghana;GHA;0.0;1995
+27;Greece;GRC;13.9;1995
+108;Guatemala;GTM;0.0;1995
+134;Haiti;HTI;0.0;1995
+111;Honduras;HND;28.7;1995
+39;Hungary;HUN;24.8;1995
+9;Iceland;ISL;14.2;1995
+112;India;IND;0.0;1995
+98;Indonesia;IDN;16.0;1995
+61;Iran, Islamic Rep.;IRN;0.0;1995
+105;Iraq;IRQ;0.0;1995
+8;Ireland;IRL;17.2;1995
+17;Israel;ISR;14.9;1995
+24;Italy;ITA;22.7;1995
+81;Jamaica;JAM;12.4;1995
+15;Japan;JPN;25.0;1995
+74;Jordan;JOR;0.0;1995
+53;Kazakhstan;KAZ;0.0;1995
+122;Kenya;KEN;0.0;1995
+16;Korea, Rep.;KOR;23.7;1995
+47;Kuwait;KWT;0.0;1995
+104;Kyrgyz Republic;KGZ;0.0;1995
+115;Lao PDR;LAO;0.0;1995
+40;Latvia;LVA;0.0;1995
+67;Lebanon;LBN;0.0;1995
+132;Lesotho;LSO;0.0;1995
+147;Liberia;LBR;0.0;1995
+87;Libya;LBY;0.0;1995
+33;Lithuania;LTU;0.0;1995
+18;Luxembourg;LUX;7.9;1995
+141;Malawi;MWI;0.0;1995
+90;Maldives;MDV;42.9;1995
+145;Mali;MLI;0.0;1995
+30;Malta;MLT;0.0;1995
+130;Mauritania;MRT;0.0;1995
+56;Mauritius;MUS;42.6;1995
+68;Mexico;MEX;15.2;1995
+92;Moldova;MDA;0.0;1995
+80;Mongolia;MNG;16.1;1995
+44;Montenegro;MNE;0.0;1995
+106;Morocco;MAR;41.5;1995
+149;Mozambique;MOZ;0.0;1995
+121;Myanmar;MMR;0.0;1995
+109;Namibia;NAM;0.0;1995
+120;Nepal;NPL;0.0;1995
+7;Netherlands;NLD;9.6;1995
+12;New Zealand;NZL;14.3;1995
+107;Nicaragua;NIC;0.0;1995
+126;Nigeria;NGA;0.0;1995
+1;Norway;NOR;9.8;1995
+49;Oman;OMN;0.0;1995
+123;Pakistan;PAK;10.7;1995
+55;Panama;PAN;11.1;1995
+128;Papua New Guinea;PNG;0.0;1995
+95;Paraguay;PRY;0.0;1995
+75;Peru;PER;0.0;1995
+100;Philippines;PHL;13.2;1995
+32;Poland;POL;21.0;1995
+37;Portugal;PRT;22.8;1995
+31;Qatar;QAT;0.0;1995
+46;Romania;ROU;24.3;1995
+45;Russian Federation;RUS;0.0;1995
+131;Rwanda;RWA;0.0;1995
+89;Samoa;WSM;0.0;1995
+35;Saudi Arabia;SAU;0.0;1995
+133;Senegal;SEN;0.0;1995
+59;Serbia;SRB;0.0;1995
+148;Sierra Leone;SLE;0.0;1995
+6;Singapore;SGP;25.0;1995
+36;Slovak Republic;SVK;28.6;1995
+23;Slovenia;SVN;33.5;1995
+103;South Africa;ZAF;0.0;1995
+25;Spain;ESP;14.0;1995
+65;Sri Lanka;LKA;28.7;1995
+136;Sudan;SDN;0.0;1995
+83;Suriname;SUR;4.5;1995
+13;Sweden;SWE;11.7;1995
+2;Switzerland;CHE;15.9;1995
+124;Syrian Arab Republic;SYR;0.0;1995
+110;Tajikistan;TJK;0.0;1995
+125;Tanzania;TZA;0.0;1995
+76;Thailand;THA;17.1;1995
+137;Togo;TGO;0.0;1995
+86;Tonga;TON;0.0;1995
+57;Trinidad and Tobago;TTO;12.7;1995
+84;Tunisia;TUN;0.0;1995
+63;Turkey;TUR;9.9;1995
+97;Turkmenistan;TKM;0.0;1995
+135;Uganda;UGA;0.0;1995
+73;Ukraine;UKR;0.0;1995
+38;United Arab Emirates;ARE;13.8;1995
+14;United Kingdom;GBR;14.0;1995
+11;United States;USA;12.4;1995
+51;Uruguay;URY;16.7;1995
+91;Uzbekistan;UZB;0.0;1995
+64;Venezuela, RB;VEN;13.8;1995
+99;Vietnam;VNM;0.0;1995
+139;Yemen, Rep.;YEM;0.0;1995
+118;Zambia;ZMB;0.0;1995
+129;Zimbabwe;ZWE;0.0;1995
+1;Norway;NOR;9.4;2000
+2;Switzerland;CHE;11.9;2000
+3;Australia;AUS;10.2;2000
+4;Germany;DEU;18.3;2000
+5;Denmark;DNK;13.4;2000
+6;Singapore;SGP;20.9;2000
+7;Netherlands;NLD;8.7;2000
+8;Ireland;IRL;15.3;2000
+9;Iceland;ISL;10.3;2000
+10;Canada;CAN;11.5;2000
+11;United States;USA;12.1;2000
+12;New Zealand;NZL;12.2;2000
+13;Sweden;SWE;11.4;2000
+14;United Kingdom;GBR;11.9;2000
+15;Japan;JPN;21.5;2000
+16;Korea, Rep.;KOR;19.2;2000
+17;Israel;ISR;11.9;2000
+18;Luxembourg;LUX;6.4;2000
+19;France;FRA;14.1;2000
+20;Belgium;BEL;11.7;2000
+21;Finland;FIN;14.3;2000
+22;Austria;AUT;14.2;2000
+23;Slovenia;SVN;28.2;2000
+24;Italy;ITA;20.5;2000
+25;Spain;ESP;14.5;2000
+26;Czech Republic;CZE;27.2;2000
+27;Greece;GRC;12.2;2000
+28;Estonia;EST;22.7;2000
+29;Cyprus;CYP;13.1;2000
+30;Malta;MLT;24.6;2000
+31;Qatar;QAT;0.0;2000
+32;Poland;POL;18.9;2000
+33;Lithuania;LTU;21.0;2000
+34;Chile;CHL;12.2;2000
+35;Saudi Arabia;SAU;1.5;2000
+36;Slovak Republic;SVK;25.5;2000
+37;Portugal;PRT;22.5;2000
+38;United Arab Emirates;ARE;13.8;2000
+39;Hungary;HUN;24.8;2000
+40;Latvia;LVA;18.6;2000
+41;Argentina;ARG;10.1;2000
+42;Croatia;HRV;19.9;2000
+43;Bahrain;BHR;0.0;2000
+44;Montenegro;MNE;0.0;2000
+45;Russian Federation;RUS;21.8;2000
+46;Romania;ROU;20.4;2000
+47;Kuwait;KWT;0.0;2000
+48;Belarus;BLR;0.0;2000
+49;Oman;OMN;14.0;2000
+50;Barbados;BRB;10.7;2000
+51;Uruguay;URY;13.4;2000
+52;Bulgaria;BGR;27.2;2000
+53;Kazakhstan;KAZ;0.0;2000
+54;Bahamas, The;BHS;0.0;2000
+55;Panama;PAN;9.1;2000
+56;Mauritius;MUS;43.2;2000
+57;Trinidad and Tobago;TTO;13.3;2000
+58;Costa Rica;CRI;16.5;2000
+59;Serbia;SRB;0.0;2000
+60;Cuba;CUB;13.9;2000
+61;Iran, Islamic Rep.;IRN;0.0;2000
+62;Georgia;GEO;4.1;2000
+63;Turkey;TUR;13.1;2000
+64;Venezuela, RB;VEN;12.7;2000
+65;Sri Lanka;LKA;0.0;2000
+66;Albania;ALB;0.0;2000
+67;Lebanon;LBN;0.0;2000
+68;Mexico;MEX;22.2;2000
+69;Azerbaijan;AZE;7.5;2000
+70;Brazil;BRA;12.1;2000
+71;Bosnia and Herzegovina;BIH;0.0;2000
+72;Armenia;ARM;0.0;2000
+73;Ukraine;UKR;0.0;2000
+74;Jordan;JOR;0.0;2000
+75;Peru;PER;11.5;2000
+76;Thailand;THA;17.3;2000
+77;Ecuador;ECU;14.9;2000
+78;China;CHN;0.0;2000
+79;Fiji;FJI;0.0;2000
+80;Mongolia;MNG;11.3;2000
+81;Jamaica;JAM;6.2;2000
+82;Colombia;COL;19.9;2000
+83;Suriname;SUR;0.0;2000
+84;Tunisia;TUN;0.0;2000
+85;Dominican Republic;DOM;20.2;2000
+86;Tonga;TON;0.0;2000
+87;Libya;LBY;0.0;2000
+88;Belize;BLZ;0.0;2000
+89;Samoa;WSM;0.0;2000
+90;Maldives;MDV;24.1;2000
+91;Uzbekistan;UZB;0.0;2000
+92;Moldova;MDA;10.2;2000
+93;Botswana;BWA;14.1;2000
+94;Gabon;GAB;0.0;2000
+95;Paraguay;PRY;0.0;2000
+96;Egypt, Arab Rep.;EGY;6.9;2000
+97;Turkmenistan;TKM;0.0;2000
+98;Indonesia;IDN;15.0;2000
+99;Vietnam;VNM;10.1;2000
+100;Philippines;PHL;13.3;2000
+101;El Salvador;SLV;24.3;2000
+102;Bolivia;BOL;9.8;2000
+103;South Africa;ZAF;12.1;2000
+104;Kyrgyz Republic;KGZ;7.3;2000
+105;Iraq;IRQ;0.0;2000
+106;Morocco;MAR;38.5;2000
+107;Nicaragua;NIC;0.0;2000
+108;Guatemala;GTM;0.0;2000
+109;Namibia;NAM;6.7;2000
+110;Tajikistan;TJK;0.0;2000
+111;Honduras;HND;0.0;2000
+112;India;IND;0.0;2000
+113;Bhutan;BTN;0.0;2000
+114;Congo, Dem. Rep.;COD;0.0;2000
+115;Lao PDR;LAO;0.0;2000
+116;Bangladesh;BGD;9.0;2000
+117;Ghana;GHA;0.0;2000
+118;Zambia;ZMB;2.0;2000
+119;Cambodia;KHM;0.0;2000
+120;Nepal;NPL;0.0;2000
+121;Myanmar;MMR;0.0;2000
+122;Kenya;KEN;0.0;2000
+123;Pakistan;PAK;9.0;2000
+124;Syrian Arab Republic;SYR;7.5;2000
+125;Tanzania;TZA;0.0;2000
+126;Nigeria;NGA;0.0;2000
+127;Cameroon;CMR;0.0;2000
+128;Papua New Guinea;PNG;0.0;2000
+129;Zimbabwe;ZWE;0.0;2000
+130;Mauritania;MRT;0.0;2000
+131;Rwanda;RWA;0.0;2000
+132;Lesotho;LSO;0.0;2000
+133;Senegal;SEN;0.0;2000
+134;Haiti;HTI;0.0;2000
+135;Uganda;UGA;0.0;2000
+136;Sudan;SDN;0.0;2000
+137;Togo;TGO;0.0;2000
+138;Benin;BEN;0.0;2000
+139;Yemen, Rep.;YEM;0.0;2000
+140;Afghanistan;AFG;0.0;2000
+141;Malawi;MWI;0.0;2000
+142;Cote d'Ivoire;CIV;0.0;2000
+143;Gambia, The;GMB;0.0;2000
+144;Ethiopia;ETH;0.0;2000
+145;Mali;MLI;0.0;2000
+146;Congo, Rep.;COG;0.0;2000
+147;Liberia;LBR;0.0;2000
+148;Sierra Leone;SLE;0.0;2000
+149;Mozambique;MOZ;0.0;2000
+150;Burundi;BDI;0.0;2000
+151;Burkina Faso;BFA;0.0;2000
+152;Chad;TCD;0.0;2000
+153;Central African Republic;CAF;0.0;2000
+1;Norway;NOR;8.1;2005
+2;Switzerland;CHE;10.9;2005
+3;Australia;AUS;9.3;2005
+4;Germany;DEU;16.1;2005
+5;Denmark;DNK;12.4;2005
+6;Singapore;SGP;0.0;2005
+7;Netherlands;NLD;8.1;2005
+8;Ireland;IRL;11.9;2005
+9;Iceland;ISL;10.6;2005
+10;Canada;CAN;10.8;2005
+11;United States;USA;9.6;2005
+12;New Zealand;NZL;10.5;2005
+13;Sweden;SWE;9.3;2005
+14;United Kingdom;GBR;9.4;2005
+15;Japan;JPN;17.2;2005
+16;Korea, Rep.;KOR;16.6;2005
+17;Israel;ISR;10.5;2005
+18;Luxembourg;LUX;5.8;2005
+19;France;FRA;12.1;2005
+20;Belgium;BEL;11.4;2005
+21;Finland;FIN;12.3;2005
+22;Austria;AUT;12.9;2005
+23;Slovenia;SVN;25.3;2005
+24;Italy;ITA;17.4;2005
+25;Spain;ESP;12.4;2005
+26;Czech Republic;CZE;26.5;2005
+27;Greece;GRC;9.9;2005
+28;Estonia;EST;24.2;2005
+29;Cyprus;CYP;10.6;2005
+30;Malta;MLT;16.9;2005
+31;Qatar;QAT;0.0;2005
+32;Poland;POL;17.1;2005
+33;Lithuania;LTU;20.8;2005
+34;Chile;CHL;11.5;2005
+35;Saudi Arabia;SAU;0.0;2005
+36;Slovak Republic;SVK;25.2;2005
+37;Portugal;PRT;18.5;2005
+38;United Arab Emirates;ARE;6.2;2005
+39;Hungary;HUN;21.2;2005
+40;Latvia;LVA;17.3;2005
+41;Argentina;ARG;10.9;2005
+42;Croatia;HRV;18.1;2005
+43;Bahrain;BHR;0.0;2005
+44;Montenegro;MNE;9.2;2005
+45;Russian Federation;RUS;21.2;2005
+46;Romania;ROU;24.8;2005
+47;Kuwait;KWT;2.3;2005
+48;Belarus;BLR;0.0;2005
+49;Oman;OMN;0.0;2005
+50;Barbados;BRB;0.0;2005
+51;Uruguay;URY;12.8;2005
+52;Bulgaria;BGR;28.9;2005
+53;Kazakhstan;KAZ;10.9;2005
+54;Bahamas, The;BHS;5.1;2005
+55;Panama;PAN;9.1;2005
+56;Mauritius;MUS;28.8;2005
+57;Trinidad and Tobago;TTO;15.8;2005
+58;Costa Rica;CRI;12.6;2005
+59;Serbia;SRB;17.5;2005
+60;Cuba;CUB;13.2;2005
+61;Iran, Islamic Rep.;IRN;28.3;2005
+62;Georgia;GEO;4.4;2005
+63;Turkey;TUR;15.1;2005
+64;Venezuela, RB;VEN;11.2;2005
+65;Sri Lanka;LKA;27.6;2005
+66;Albania;ALB;0.0;2005
+67;Lebanon;LBN;0.0;2005
+68;Mexico;MEX;18.9;2005
+69;Azerbaijan;AZE;8.7;2005
+70;Brazil;BRA;13.3;2005
+71;Bosnia and Herzegovina;BIH;0.0;2005
+72;Armenia;ARM;9.8;2005
+73;Ukraine;UKR;0.0;2005
+74;Jordan;JOR;0.0;2005
+75;Peru;PER;13.4;2005
+76;Thailand;THA;18.7;2005
+77;Ecuador;ECU;12.1;2005
+78;China;CHN;0.0;2005
+79;Fiji;FJI;0.0;2005
+80;Mongolia;MNG;14.8;2005
+81;Jamaica;JAM;5.3;2005
+82;Colombia;COL;16.3;2005
+83;Suriname;SUR;0.0;2005
+84;Tunisia;TUN;0.0;2005
+85;Dominican Republic;DOM;15.1;2005
+86;Tonga;TON;0.0;2005
+87;Libya;LBY;0.0;2005
+88;Belize;BLZ;10.3;2005
+89;Samoa;WSM;0.0;2005
+90;Maldives;MDV;0.0;2005
+91;Uzbekistan;UZB;0.0;2005
+92;Moldova;MDA;11.5;2005
+93;Botswana;BWA;0.0;2005
+94;Gabon;GAB;0.0;2005
+95;Paraguay;PRY;0.0;2005
+96;Egypt, Arab Rep.;EGY;5.0;2005
+97;Turkmenistan;TKM;0.0;2005
+98;Indonesia;IDN;0.0;2005
+99;Vietnam;VNM;0.0;2005
+100;Philippines;PHL;12.0;2005
+101;El Salvador;SLV;20.1;2005
+102;Bolivia;BOL;10.8;2005
+103;South Africa;ZAF;13.7;2005
+104;Kyrgyz Republic;KGZ;10.3;2005
+105;Iraq;IRQ;0.0;2005
+106;Morocco;MAR;15.9;2005
+107;Nicaragua;NIC;19.1;2005
+108;Guatemala;GTM;0.0;2005
+109;Namibia;NAM;0.0;2005
+110;Tajikistan;TJK;0.0;2005
+111;Honduras;HND;23.3;2005
+112;India;IND;14.4;2005
+113;Bhutan;BTN;5.8;2005
+114;Congo, Dem. Rep.;COD;0.0;2005
+115;Lao PDR;LAO;0.0;2005
+116;Bangladesh;BGD;12.5;2005
+117;Ghana;GHA;0.0;2005
+118;Zambia;ZMB;0.0;2005
+119;Cambodia;KHM;0.0;2005
+120;Nepal;NPL;0.0;2005
+121;Myanmar;MMR;0.0;2005
+122;Kenya;KEN;0.0;2005
+123;Pakistan;PAK;15.0;2005
+124;Syrian Arab Republic;SYR;0.0;2005
+125;Tanzania;TZA;0.0;2005
+126;Nigeria;NGA;0.0;2005
+127;Cameroon;CMR;0.0;2005
+128;Papua New Guinea;PNG;0.0;2005
+129;Zimbabwe;ZWE;0.0;2005
+130;Mauritania;MRT;0.0;2005
+131;Rwanda;RWA;0.0;2005
+132;Lesotho;LSO;0.0;2005
+133;Senegal;SEN;0.0;2005
+134;Haiti;HTI;0.0;2005
+135;Uganda;UGA;0.0;2005
+136;Sudan;SDN;0.0;2005
+137;Togo;TGO;0.0;2005
+138;Benin;BEN;0.0;2005
+139;Yemen, Rep.;YEM;0.0;2005
+140;Afghanistan;AFG;0.0;2005
+141;Malawi;MWI;0.0;2005
+142;Cote d'Ivoire;CIV;0.0;2005
+143;Gambia, The;GMB;0.0;2005
+144;Ethiopia;ETH;8.4;2005
+145;Mali;MLI;0.0;2005
+146;Congo, Rep.;COG;0.0;2005
+147;Liberia;LBR;0.0;2005
+148;Sierra Leone;SLE;0.0;2005
+149;Mozambique;MOZ;0.0;2005
+150;Burundi;BDI;0.0;2005
+151;Burkina Faso;BFA;0.0;2005
+152;Chad;TCD;0.0;2005
+153;Central African Republic;CAF;0.0;2005
+1;Norway;NOR;7.0;2010
+2;Switzerland;CHE;10.1;2010
+3;Australia;AUS;8.6;2010
+4;Germany;DEU;14.3;2010
+5;Denmark;DNK;9.2;2010
+6;Singapore;SGP;0.0;2010
+7;Netherlands;NLD;6.2;2010
+8;Ireland;IRL;8.8;2010
+9;Iceland;ISL;7.8;2010
+10;Canada;CAN;8.6;2010
+11;United States;USA;7.8;2010
+12;New Zealand;NZL;9.7;2010
+13;Sweden;SWE;7.6;2010
+14;United Kingdom;GBR;7.4;2010
+15;Japan;JPN;14.8;2010
+16;Korea, Rep.;KOR;14.4;2010
+17;Israel;ISR;9.4;2010
+18;Luxembourg;LUX;4.6;2010
+19;France;FRA;10.1;2010
+20;Belgium;BEL;10.1;2010
+21;Finland;FIN;9.9;2010
+22;Austria;AUT;11.5;2010
+23;Slovenia;SVN;20.5;2010
+24;Italy;ITA;14.1;2010
+25;Spain;ESP;9.6;2010
+26;Czech Republic;CZE;23.2;2010
+27;Greece;GRC;7.8;2010
+28;Estonia;EST;18.0;2010
+29;Cyprus;CYP;9.4;2010
+30;Malta;MLT;13.2;2010
+31;Qatar;QAT;0.0;2010
+32;Poland;POL;16.1;2010
+33;Lithuania;LTU;16.6;2010
+34;Chile;CHL;10.2;2010
+35;Saudi Arabia;SAU;0.0;2010
+36;Slovak Republic;SVK;21.1;2010
+37;Portugal;PRT;15.9;2010
+38;United Arab Emirates;ARE;0.0;2010
+39;Hungary;HUN;19.8;2010
+40;Latvia;LVA;13.6;2010
+41;Argentina;ARG;9.2;2010
+42;Croatia;HRV;14.9;2010
+43;Bahrain;BHR;9.0;2010
+44;Montenegro;MNE;10.6;2010
+45;Russian Federation;RUS;17.8;2010
+46;Romania;ROU;19.9;2010
+47;Kuwait;KWT;0.0;2010
+48;Belarus;BLR;0.0;2010
+49;Oman;OMN;6.3;2010
+50;Barbados;BRB;8.9;2010
+51;Uruguay;URY;11.9;2010
+52;Bulgaria;BGR;24.1;2010
+53;Kazakhstan;KAZ;11.4;2010
+54;Bahamas, The;BHS;0.0;2010
+55;Panama;PAN;9.7;2010
+56;Mauritius;MUS;21.6;2010
+57;Trinidad and Tobago;TTO;0.0;2010
+58;Costa Rica;CRI;11.6;2010
+59;Serbia;SRB;16.1;2010
+60;Cuba;CUB;11.5;2010
+61;Iran, Islamic Rep.;IRN;24.4;2010
+62;Georgia;GEO;0.0;2010
+63;Turkey;TUR;15.9;2010
+64;Venezuela, RB;VEN;11.8;2010
+65;Sri Lanka;LKA;24.8;2010
+66;Albania;ALB;0.0;2010
+67;Lebanon;LBN;0.0;2010
+68;Mexico;MEX;16.0;2010
+69;Azerbaijan;AZE;6.1;2010
+70;Brazil;BRA;0.0;2010
+71;Bosnia and Herzegovina;BIH;0.0;2010
+72;Armenia;ARM;5.9;2010
+73;Ukraine;UKR;15.3;2010
+74;Jordan;JOR;0.0;2010
+75;Peru;PER;10.6;2010
+76;Thailand;THA;18.2;2010
+77;Ecuador;ECU;0.0;2010
+78;China;CHN;0.0;2010
+79;Fiji;FJI;0.0;2010
+80;Mongolia;MNG;11.7;2010
+81;Jamaica;JAM;6.9;2010
+82;Colombia;COL;15.7;2010
+83;Suriname;SUR;0.0;2010
+84;Tunisia;TUN;0.0;2010
+85;Dominican Republic;DOM;9.6;2010
+86;Tonga;TON;0.0;2010
+87;Libya;LBY;0.0;2010
+88;Belize;BLZ;0.0;2010
+89;Samoa;WSM;0.0;2010
+90;Maldives;MDV;16.6;2010
+91;Uzbekistan;UZB;0.0;2010
+92;Moldova;MDA;12.3;2010
+93;Botswana;BWA;10.3;2010
+94;Gabon;GAB;0.0;2010
+95;Paraguay;PRY;8.5;2010
+96;Egypt, Arab Rep.;EGY;0.0;2010
+97;Turkmenistan;TKM;0.0;2010
+98;Indonesia;IDN;0.0;2010
+99;Vietnam;VNM;0.0;2010
+100;Philippines;PHL;9.9;2010
+101;El Salvador;SLV;18.4;2010
+102;Bolivia;BOL;0.0;2010
+103;South Africa;ZAF;13.1;2010
+104;Kyrgyz Republic;KGZ;0.0;2010
+105;Iraq;IRQ;0.0;2010
+106;Morocco;MAR;0.0;2010
+107;Nicaragua;NIC;0.0;2010
+108;Guatemala;GTM;0.0;2010
+109;Namibia;NAM;0.0;2010
+110;Tajikistan;TJK;0.0;2010
+111;Honduras;HND;0.0;2010
+112;India;IND;17.8;2010
+113;Bhutan;BTN;6.7;2010
+114;Congo, Dem. Rep.;COD;0.0;2010
+115;Lao PDR;LAO;0.0;2010
+116;Bangladesh;BGD;13.3;2010
+117;Ghana;GHA;13.4;2010
+118;Zambia;ZMB;0.0;2010
+119;Cambodia;KHM;15.5;2010
+120;Nepal;NPL;0.0;2010
+121;Myanmar;MMR;0.0;2010
+122;Kenya;KEN;0.0;2010
+123;Pakistan;PAK;0.0;2010
+124;Syrian Arab Republic;SYR;0.0;2010
+125;Tanzania;TZA;0.0;2010
+126;Nigeria;NGA;14.8;2010
+127;Cameroon;CMR;0.0;2010
+128;Papua New Guinea;PNG;0.0;2010
+129;Zimbabwe;ZWE;0.0;2010
+130;Mauritania;MRT;0.0;2010
+131;Rwanda;RWA;0.0;2010
+132;Lesotho;LSO;0.0;2010
+133;Senegal;SEN;0.0;2010
+134;Haiti;HTI;0.0;2010
+135;Uganda;UGA;0.0;2010
+136;Sudan;SDN;0.0;2010
+137;Togo;TGO;0.0;2010
+138;Benin;BEN;7.2;2010
+139;Yemen, Rep.;YEM;0.0;2010
+140;Afghanistan;AFG;0.0;2010
+141;Malawi;MWI;0.0;2010
+142;Cote d'Ivoire;CIV;0.0;2010
+143;Gambia, The;GMB;0.0;2010
+144;Ethiopia;ETH;17.3;2010
+145;Mali;MLI;0.0;2010
+146;Congo, Rep.;COG;0.0;2010
+147;Liberia;LBR;5.3;2010
+148;Sierra Leone;SLE;0.0;2010
+149;Mozambique;MOZ;0.0;2010
+150;Burundi;BDI;0.0;2010
+151;Burkina Faso;BFA;0.0;2010
+152;Chad;TCD;0.0;2010
+153;Central African Republic;CAF;0.0;2010
+1;Norway;NOR;7.2;2015
+2;Switzerland;CHE;9.6;2015
+3;Australia;AUS;7.7;2015
+4;Germany;DEU;13.9;2015
+5;Denmark;DNK;9.6;2015
+6;Singapore;SGP;11.8;2015
+7;Netherlands;NLD;5.6;2015
+8;Ireland;IRL;8.5;2015
+9;Iceland;ISL;6.9;2015
+10;Canada;CAN;8.6;2015
+11;United States;USA;8.3;2015
+12;New Zealand;NZL;10.1;2015
+13;Sweden;SWE;6.8;2015
+14;United Kingdom;GBR;7.6;2015
+15;Japan;JPN;14.6;2015
+16;Korea, Rep.;KOR;13.8;2015
+17;Israel;ISR;8.0;2015
+18;Luxembourg;LUX;4.1;2015
+19;France;FRA;9.4;2015
+20;Belgium;BEL;8.4;2015
+21;Finland;FIN;8.7;2015
+22;Austria;AUT;12.2;2015
+23;Slovenia;SVN;18.0;2015
+24;Italy;ITA;13.3;2015
+25;Spain;ESP;8.7;2015
+26;Czech Republic;CZE;23.7;2015
+27;Greece;GRC;8.0;2015
+28;Estonia;EST;17.5;2015
+29;Cyprus;CYP;6.5;2015
+30;Malta;MLT;8.9;2015
+31;Qatar;QAT;5.9;2015
+32;Poland;POL;16.4;2015
+33;Lithuania;LTU;16.5;2015
+34;Chile;CHL;11.5;2015
+35;Saudi Arabia;SAU;1.6;2015
+36;Slovak Republic;SVK;20.7;2015
+37;Portugal;PRT;15.2;2015
+38;United Arab Emirates;ARE;0.0;2015
+39;Hungary;HUN;18.9;2015
+40;Latvia;LVA;12.8;2015
+41;Argentina;ARG;0.0;2015
+42;Croatia;HRV;15.1;2015
+43;Bahrain;BHR;0.0;2015
+44;Montenegro;MNE;7.1;2015
+45;Russian Federation;RUS;16.2;2015
+46;Romania;ROU;20.0;2015
+47;Kuwait;KWT;0.0;2015
+48;Belarus;BLR;0.0;2015
+49;Oman;OMN;0.0;2015
+50;Barbados;BRB;9.6;2015
+51;Uruguay;URY;9.8;2015
+52;Bulgaria;BGR;22.8;2015
+53;Kazakhstan;KAZ;11.5;2015
+54;Bahamas, The;BHS;0.0;2015
+55;Panama;PAN;9.5;2015
+56;Mauritius;MUS;17.0;2015
+57;Trinidad and Tobago;TTO;0.0;2015
+58;Costa Rica;CRI;9.6;2015
+59;Serbia;SRB;16.9;2015
+60;Cuba;CUB;0.0;2015
+61;Iran, Islamic Rep.;IRN;23.8;2015
+62;Georgia;GEO;0.0;2015
+63;Turkey;TUR;16.2;2015
+64;Venezuela, RB;VEN;0.0;2015
+65;Sri Lanka;LKA;25.7;2015
+66;Albania;ALB;13.8;2015
+67;Lebanon;LBN;0.0;2015
+68;Mexico;MEX;16.5;2015
+69;Azerbaijan;AZE;5.9;2015
+70;Brazil;BRA;0.0;2015
+71;Bosnia and Herzegovina;BIH;14.1;2015
+72;Armenia;ARM;7.6;2015
+73;Ukraine;UKR;13.9;2015
+74;Jordan;JOR;0.0;2015
+75;Peru;PER;9.9;2015
+76;Thailand;THA;20.8;2015
+77;Ecuador;ECU;10.5;2015
+78;China;CHN;0.0;2015
+79;Fiji;FJI;0.0;2015
+80;Mongolia;MNG;13.1;2015
+81;Jamaica;JAM;5.7;2015
+82;Colombia;COL;13.6;2015
+83;Suriname;SUR;0.0;2015
+84;Tunisia;TUN;0.0;2015
+85;Dominican Republic;DOM;9.7;2015
+86;Tonga;TON;0.0;2015
+87;Libya;LBY;0.0;2015
+88;Belize;BLZ;8.0;2015
+89;Samoa;WSM;0.0;2015
+90;Maldives;MDV;0.0;2015
+91;Uzbekistan;UZB;0.0;2015
+92;Moldova;MDA;11.9;2015
+93;Botswana;BWA;0.0;2015
+94;Gabon;GAB;0.0;2015
+95;Paraguay;PRY;9.8;2015
+96;Egypt, Arab Rep.;EGY;0.0;2015
+97;Turkmenistan;TKM;0.0;2015
+98;Indonesia;IDN;15.9;2015
+99;Vietnam;VNM;19.6;2015
+100;Philippines;PHL;10.0;2015
+101;El Salvador;SLV;0.0;2015
+102;Bolivia;BOL;0.0;2015
+103;South Africa;ZAF;11.7;2015
+104;Kyrgyz Republic;KGZ;10.8;2015
+105;Iraq;IRQ;0.0;2015
+106;Morocco;MAR;0.0;2015
+107;Nicaragua;NIC;0.0;2015
+108;Guatemala;GTM;16.5;2015
+109;Namibia;NAM;0.0;2015
+110;Tajikistan;TJK;0.0;2015
+111;Honduras;HND;21.1;2015
+112;India;IND;0.0;2015
+113;Bhutan;BTN;9.2;2015
+114;Congo, Dem. Rep.;COD;0.0;2015
+115;Lao PDR;LAO;0.0;2015
+116;Bangladesh;BGD;0.0;2015
+117;Ghana;GHA;0.0;2015
+118;Zambia;ZMB;0.0;2015
+119;Cambodia;KHM;0.0;2015
+120;Nepal;NPL;0.0;2015
+121;Myanmar;MMR;0.0;2015
+122;Kenya;KEN;0.0;2015
+123;Pakistan;PAK;0.0;2015
+124;Syrian Arab Republic;SYR;0.0;2015
+125;Tanzania;TZA;0.0;2015
+126;Nigeria;NGA;0.0;2015
+127;Cameroon;CMR;0.0;2015
+128;Papua New Guinea;PNG;0.0;2015
+129;Zimbabwe;ZWE;0.0;2015
+130;Mauritania;MRT;0.0;2015
+131;Rwanda;RWA;0.0;2015
+132;Lesotho;LSO;0.0;2015
+133;Senegal;SEN;0.0;2015
+134;Haiti;HTI;0.0;2015
+135;Uganda;UGA;0.0;2015
+136;Sudan;SDN;0.0;2015
+137;Togo;TGO;0.0;2015
+138;Benin;BEN;0.0;2015
+139;Yemen, Rep.;YEM;0.0;2015
+140;Afghanistan;AFG;0.0;2015
+141;Malawi;MWI;0.0;2015
+142;Cote d'Ivoire;CIV;0.0;2015
+143;Gambia, The;GMB;0.0;2015
+144;Ethiopia;ETH;0.0;2015
+145;Mali;MLI;0.0;2015
+146;Congo, Rep.;COG;0.0;2015
+147;Liberia;LBR;0.0;2015
+148;Sierra Leone;SLE;0.0;2015
+149;Mozambique;MOZ;0.0;2015
+150;Burundi;BDI;0.0;2015
+151;Burkina Faso;BFA;0.0;2015
+152;Chad;TCD;0.0;2015
+153;Central African Republic;CAF;0.0;2015
