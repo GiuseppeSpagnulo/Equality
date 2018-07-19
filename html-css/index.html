@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Womens Rights Now</title>
+    <link rel="stylesheet" type="text/css" href="css/stile.css" />
+    <link rel="shortcut icon" type="image/png" href="images/logo.png" />
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="libraries/jquery-jvectormap-2.0.3/jquery-jvectormap-2.0.3.css">
+    <script src="libraries/jquery-1.11.2.min.js"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    <script src="libraries/jquery-jvectormap-2.0.3/jquery-jvectormap-2.0.3.min.js"></script>
+    <script src="libraries/jquery-jvectormap-2.0.3/jquery-jvectormap-world-mill.js"></script>
+    <script type="text/javascript" src="js/grafici.js"></script>
+    <script type="text/javascript" src="js/mappa.js"></script>
+    <script type="text/javascript" src="js/scroll.js"></script>
+
+</head>
+
+<body>
+    <header>
+        <div id="header-interno">
+            <a href="index.html" id="logo"></a>
+            <nav>
+                <a href="#" id="icona-menu"></a>
+                <ul>
+                    <li><a id="intro" href="#introSez">Intro</a></li>
+                    <li><a id="disug" href="#disugSez">Disuguaglianza</a></li>
+                    <li><a id="occup" href="#occupSez">Occupazione</a></li>
+                    <li><a id="poli" href="#poliSez">Politica</a></li>
+                    <li><a id="about" href="#aboutSez">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!--Fine header-->
+
+    <div class="banner"></div>
+    <!--Fine banner-->
+    <div id="introSez" class="main"></div>
+    <article id="introduzione">
+        <h3>IL PROBLEMA DELLA DISUGUAGLIANZA</h3>
+        <p>Il problema della disuguaglianza di genere è ancora oggi, nel 2017, un problema molto più significativo di quanto sia quotidianamente percepibile. L'idea che le donne e gli uomini non siano uguali si riferisce al trattamento o alla percezione
+            ineguale degli individui in tutto, o in parte, a causa del loro genere. Questo problema nasce dalle differenze nei ruoli di genere costruiti socialmente e da distinzioni, empiricamente fondate o socialmente costruite, strumentalizzate ai fini
+            del controllo e della repressione delle libertà individuali delle donne. I sistemi di genere sono spesso dicotomici e gerarchici, queste tipologie di sistemi binari di genere possono riflettere le ineguaglianze che si manifestano in numerose
+            dimensioni della vita quotidiana. La disuguaglianza di genere rimane un ostacolo importante allo sviluppo umano. Le ragazze e le donne hanno fatto grandi passi dal 1990, ma non hanno ancora guadagnato una completa equità. Troppo spesso le
+            donne e le ragazze sono discriminate in materia di salute, istruzione, rappresentanza politica e mercato del lavoro, con conseguenze negative per lo sviluppo delle loro capacità e della loro libertà di scelta.
+    </article>
+    <div id="disugSez" class="seconda"></div>
+    <article id="mappaInt">
+        <div>
+            <h3>Mappa indici di occupezione e diritti delle donne</h3>
+
+            <p id="intInd">In questa mappa interattiva sono presentati i dati dello <strong>United Nations Development Programm</strong> aggiornati all'anno 2015, riguardanti l'indice di disuguaglianza di genere
+                <strong>(Gender Inequality Index)</strong> e la forza lavoro femminile <strong>(Female Force Labour)</strong> in 159 paesi.</p>
+        </div>
+        <aside id="left">
+            <h4>GII</h4>
+            <p>Il Gender inequality index si basa su una vasta gamma di statistiche raccolte dall'ONU suddivisibili in tre fattori principali, <strong>Salute</strong>, <strong>Istruzione</strong> e <strong>Lavoro</strong>. Di questi tre fattori è l'ultimo
+                quello sulla quale vogliamo porre maggiore attenzione in quanto in grado di comunicare da solo una grande quantità di informazioni riguardo il grado di <strong>emancipazione</strong> raggiunto. Possiamo notare nella mappa come le zone
+                in
+                <strong>blu scuro</strong>, ossia caratterizzate da un GII più elevato siano prevalentemente collocate nel <strong>Sud del Mondo</strong>, mentre quelle più chiare, con migliori condizioni di uguaglianza siano prevelantemente quelle occidentalizzate
+                o comunque più sviluppate.
+            </p>
+        </aside>
+        <aside id="right">
+            <h4>FFL</h4>
+            <p>La Female Force Labour, uno dei parametri principali per il calcolo del GII, si basa sulla percentuale di donne e ragazze in età lavorativa che svolgono effettivamente un <strong>lavoro riconosciuto legalmente</strong>, o quasi, e godo di
+                una qualche tipologia di <strong>diritti lavorativi</strong> sebbene spesso molto vaghi e talvolta quasi inesistenti. Nella mappa possiamo notare come le zone in <strong>giallo chiaro</strong>, ossia quelle con una percentuale minore di
+                donne lavoratrici sia nella fascia centrale, dal nord dell'<strong>Africa</strong> all'<strong>India</strong> passando per tutto il
+                <strong>medio oriente</strong>. </p>
+        </aside>
+    </article>
+    <div id="scelte">
+        <div>
+            <input type="radio" name="scelta_indice" value="gii" id="gii">
+            <label for="gii">Gender Inequality Index</label>
+
+            <input type="radio" name="scelta_indice" value="ffl" id="ffl">
+            <label for="ffl">Female Force Labour</label>
+        </div>
+    </div>
+    <div id="mappaDesc">
+        <div class="contMappa" id="world-map"> </div>
+        <aside id="tips">
+            <h6>GII</h6>
+            <p>Le regioni con maggiore disuguaglianza sono <strong>Medio Oriente</strong>, <strong>Asia Meridionale</strong>, <strong>Sud America</strong> e <strong>Africa Centrale</strong>.</p>
+        </aside>
+        <aside id="tipsD">
+            <h6>FFL</h6>
+            <p>Le regioni con minore occupazione femminile sono <strong>Medio Oriente</strong>, <strong>Asia Meridionale</strong> e <strong>Nord Africa</strong>.</p>
+        </aside>
+    </div>
+
+
+
+    <article class="settori">
+        <div id="scegli">
+            <p>Scegli l'anno</p>
+            <select id="anni">
+						
+					<option selected="selected" value=1995>	1995 </option>					
+					<option value=2000>	                    2000 </option>					
+					<option value=2005>                     2005 </option>
+					<option value=2010>                     2010 </option>
+                    <option value=2015>                     2015 </option>
+				</select>
+        </div>
+
+        <div id="occupSez"></div>
+        <h3>Le donne e l'Agricoltura nel Mondo</h3>
+        <h5>dal 95 ad oggi</h5>
+        <p>Prendendo in considerazione il <strong>settore primario</strong>, quello dell'agricoltura, appare evidente dal grafico come sia nelle zone con un <strong>GII superiore</strong> in cui si registrano le percentuali di <strong>occupazione più elevate</strong>.
+            Si veda ad esmepio i casi dell'
+            <strong>India</strong> e del <strong>Bangladesh</strong> che all'anno <strong>2010</strong> risultano possedere un GII rispettivamente del <strong>56%</strong> e <strong>59%</strong>, fra i più elevanti al mondo, e vedono più del <strong>60%</strong>            delle donne in età lavorativa impegnata in mansioni di agricoltura. Agli antipodi paesi come il <strong>Belgio</strong> e l'<strong>Olanda</strong>, rispettivamente GII <strong>9%</strong> e <strong>5%</strong>, abbiano una percentuale di
+            donne in agricoltura intorno all'<strong>1%</strong>.</p>
+    </article>
+
+    <div id="container1" class="grafico" style="margin-top:50px;"></div>
+    <article class="settori" id="second">
+        <h3>Le donne e l'Industria nel Mondo</h3>
+        <h5>dal 95 ad oggi</h5>
+        <p>Passando al <strong>settore secondario</strong>, l'industria, possiamo notare dal grafico dei valori mediamente più <strong>equilibrati</strong> in relazione al GII come dimostrato dai casi di <strong>Danimarca</strong> e <strong>Turchia</strong>            nell'anno <strong>2010</strong>, diametralmente opposte per GII ma con la stessa percentuale di donne impiegate nell'Industria, circa il <strong>13%</strong>. Nonostante ciò i <strong>valori minimi</strong> di partecipazione al settore sono
+            comunque registrati nella coda del GII, come nel caso dell'<strong>Egitto</strong>, con una percentuale inferiore al <strong>5%</strong> per l'anno
+            <strong>2005</strong>. Interessante la disposizione dei valori massimi spesso situati nell'area media del GII occupata da paesi del cosidetto <strong>secondo mondo</strong> quali <strong>Bulgaria</strong>, <strong>Romania</strong>,
+            <strong>Rep.Ceca</strong>,
+            <strong>Thailandia</strong>, in cui sono ancora in atto i residui di un tardo periodo di industrializzazione.</p>
+    </article>
+    <div id="container2" class="grafico"></div>
+
+    <div class="terza">
+        <article class="settori" id="terz">
+            <h3>Le donne e i Servizi nel Mondo</h3>
+            <h5>dal 95 ad oggi</h5>
+            <p>Il <strong>settore terziario</strong> dei Servizi e di gran lunga il settore che vede il <strong>più alto impiego</strong> di forza lavoro femminile in quasi la totalità dei paesi nel mondo, nonostante sia comunque presente una curva discendente
+                direttamente proporzionale a quella ascendente del GII, questa differenza rimane comunque meno significativa dei precedenti due settori. I picchi di occupazione in positivo sono comunque registrati nei paesi in cima alla classifica GII
+                quali, <strong>Svezia</strong> con un tasso dell'<strong>86%</strong> già nell'anno
+                <strong>1995</strong>, e quelli minimi nella coda del GII come il <strong>Pakistan</strong> con percentuali inferiori al <strong>15%</strong>.</p>
+        </article>
+        <div id="container3" class="grafico"></div>
+    </div>
+
+    <article class="settori" id="seggi">
+        <div id="poliSez"></div>
+        <h3>Donne e Politica</h3>
+        <p>
+            <strong>Quali governi, e quali classi politche possono attuare delle riforme mirate ad appianare le disuguaglianze fra sessi, se non governi essi stessi eterogenei e non discriminatori?</strong>
+        </p>
+        <p id="mini">Nel seguente grafico prendiamo in esame dunque la presenza di <strong>seggi parlamentari</strong> presieduti da Donne. Possiamo vedere che 20 anni fa, in pieni <strong>anni 90</strong> solo <strong>4 nazioni</strong> nel mondo avevano una percentuale
+            significativa di donne al governo, non a caso le quattro con un <strong>GII inferiore</strong>. A distanza di 5 anni il numero quasi si raddoppia rimanendo tuttavia un fenomeno limitato al <strong>mondo Occidentale</strong>. E dal <strong>2005</strong>            in poi che si verifica un sempre più significativo aumento anche in peasi <strong>meno sviluppati</strong>, sino ad arrivare al <strong>2015</strong> con <strong>36 paesi</strong> nel mondo con più del <strong>30%</strong> di donne ad occupare
+            seggi in parlamento, valore comunque basso se si tiene conto che i paesi in esame sono <strong>159</strong>.</p>
+    </article>
+
+
+    <div id="container4" class="grafico"></div>
+    <div id="divRwa">
+        <aside id="rwa">
+            <h3>Il caso Rwanda</h3>
+            <h5>dal genocidio alla libertà</h5>
+            <p>Oggi sono trascorsi <strong>20 anni</strong> dalla fine del <strong>genocidio</strong> che ha causato la morte di più di <strong>800.000 persone</strong>. Dal <strong>1994</strong> il Rwanda ha lavorato duramente per creare uno <strong>stato pacifico</strong>.
+                La ricostruzione degli enti pubblici è stata guidata da una serie di donne in posizioni di alto livello nelle istituzioni tra le quali <strong>Donatille Mukabalisa</strong>, portavoce della camera dei deputati rwandese, che ha contribuito
+                alla realizzazione di numerose riforme. Oggi il Rwanda è <strong>l'unico paese al mondo con più deputati femminili</strong> rispetto a quelli maschili, una statistica che ha attirato molta attenzione internazionale. Dal grafico risulta
+                evidente come l'aumento di donne in parlamento e il GII siano <strong>inversamente proporzionali</strong>.
+            </p>
+        </aside>
+        <aside id="container5"></aside>
+    </div>
+
+
+
+    <div id="aboutSez">
+        <hr>
+        <aside id="info1">
+            <h5>Credits</h5>
+            <p>Sito realizzato da:<br> Giuseppe Spagnulo <br> University of Pisa <br> BDD/LPW 2016/17</p>
+        </aside>
+
+        <aside id="info2">
+            <h5>Dati</h5>
+            <p>Tutti i dati riportati sono autentici e provengono da:</p><br>
+
+            <a href="http://hdr.undp.org/en">
+                        United Nations Development Programm
+                    </a>
+            <br>
+            <a href="http://databank.worldbank.org">
+                        The world Bank
+                    </a></aside>
+    </div>
+    <div id='toTop'>Top</div>
+
+    <div id="footer">
+
+        <img alt="logo WMR" src="images/logoD.png" />
+        <small id="copyright"><span>&copy; 2017 - Equality</span>
+ </small>
+    </div>
+    <!-- fine riga_contatti -->
+</body>
+
+</html>
